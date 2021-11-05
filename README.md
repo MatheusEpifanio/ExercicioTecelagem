@@ -1,10 +1,8 @@
-# ExercícioTecelagem
- Utilização de uma classe para manipular arrays
-
-
-
-## **EXERCÍCIO PROPOSTO**
+## EXERCÍCIO PROPOSTO
 ***
+
+**Utilização de uma classe para manipular arrays**
+
 O projeto ExTecelagem está disponível na seção de Arquivos do canal da aula de hoje. Para este projeto crie uma nova classe que declare e manipule uma lista de funcionários. O tipo base da lista deve ser a classe Funcionario, mas a lista irá conter funcionários. dos três tipos: Administracao, Vendas e Producao.
 
 O construtor da classe deve receber por parâmetro a capacidade máxima da lista.
